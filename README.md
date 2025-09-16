@@ -3,6 +3,8 @@
 Void Elementals is a full-stack dApp project that combines a React frontend with
 a backend service.
 
+![Void Elementals Preview](./client/src/assets/trade.png)
+
 ## Features
 
 - ⚡️ Modern frontend built with [Vite](https://vitejs.dev/)
