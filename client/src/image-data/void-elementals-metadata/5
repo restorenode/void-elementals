@@ -1,0 +1,23 @@
+{
+  "name": "Doron",
+  "description": "Wielding the power to manipulate the very ground it walks on, it creates earthquakes and rock walls to crush and trap its enemies.",
+  "image": "ipfs://QmYhvLHmdMHvYp57JqB18AHauYAANivqSEDgFAnscKZobz/5.jpg",
+  "attributes": [
+    {
+      "trait_type": "Elemental Power",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Molten Amber"
+    },
+    {
+      "trait_type": "Void Technique",
+      "value": "Volcanic Strike"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ]
+}

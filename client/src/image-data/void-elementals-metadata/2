@@ -1,0 +1,23 @@
+{
+  "name": "Retsu",
+  "description": "Swift and graceful, it strikes with the ferocity of a snowstorm, each movement a dance of deadly frost.",
+  "image": "ipfs://QmYhvLHmdMHvYp57JqB18AHauYAANivqSEDgFAnscKZobz/2.jpg",
+  "attributes": [
+    {
+      "trait_type": "Elemental Power",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glacial Sapphire"
+    },
+    {
+      "trait_type": "Void Technique",
+      "value": "Hell Blizzard"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}

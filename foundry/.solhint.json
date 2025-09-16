@@ -1,0 +1,9 @@
+{
+  "extends": "solhint:default",
+  "rules": {
+    "max-line-length": ["warn", 120],
+    "quotes": ["error", "double"],
+    "no-unused-vars": "warn",
+    "func-visibility": ["error", { "ignoreConstructors": true }]
+  }
+}

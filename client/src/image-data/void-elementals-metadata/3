@@ -1,0 +1,23 @@
+{
+  "name": "Raijuu",
+  "description": "Commander of electricity with fists that crackle with thunder. It delivers electrifying blows that can shatter mountains.",
+  "image": "ipfs://QmYhvLHmdMHvYp57JqB18AHauYAANivqSEDgFAnscKZobz/3.jpg",
+  "attributes": [
+    {
+      "trait_type": "Elemental Power",
+      "value": "Electricity"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Storm Yellow"
+    },
+    {
+      "trait_type": "Void Technique",
+      "value": "Voltaic Rage"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

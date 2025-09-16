@@ -1,0 +1,23 @@
+{
+  "name": "Shigane",
+  "description": "Carrying the legacy of ancient metallic beasts, it has the power to mend and reinforce its armor during battle. It stands as an unbreakable fortress with devastating power.",
+  "image": "ipfs://QmYhvLHmdMHvYp57JqB18AHauYAANivqSEDgFAnscKZobz/4.jpg",
+  "attributes": [
+    {
+      "trait_type": "Elemental Power",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regal Blue"
+    },
+    {
+      "trait_type": "Void Technique",
+      "value": "Obsidian Crush"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

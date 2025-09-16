@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap');
+
+.login__button {
+  cursor: pointer;
+  transition-duration: 0.4s;
+  background-color: black;
+  color: white;
+  border: 2px solid #9b9b9b;
+  border-radius: 20px;
+  padding: 20px 40px;
+  font-size: 16px;
+  margin-bottom: 40px;
+  justify-content: right;
+  font-family: 'Cinzel', serif;
+  width: 20%;
+
+  &:hover {
+    background-color: #acacac;
+    color: black;
+  }
+}

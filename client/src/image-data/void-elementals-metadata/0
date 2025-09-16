@@ -1,0 +1,23 @@
+{
+  "name": "Kurogawa",
+  "description": "A dark, aquatic elemental and the guardian of the deep. It bends rivers and floods to its will, submerging foes in torrents of inky water while cloaked in a mist of shadows.",
+  "image": "ipfs://QmYhvLHmdMHvYp57JqB18AHauYAANivqSEDgFAnscKZobz/0.jpg",
+  "attributes": [
+    {
+      "trait_type": "Elemental Power",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Iridescent Turquoise"
+    },
+    {
+      "trait_type": "Void Technique",
+      "value": "Sea of Darkness"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Enbu",
+  "description": "A mysterious entity whose flames burn as dark as night. It can reduce anything to ashes in moments while remaining undetected.",
+  "image": "ipfs://QmYhvLHmdMHvYp57JqB18AHauYAANivqSEDgFAnscKZobz/1.jpg",
+  "attributes": [
+    {
+      "trait_type": "Elemental Power",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Flaming Amber"
+    },
+    {
+      "trait_type": "Void Technique",
+      "value": "Ember Mirage"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}

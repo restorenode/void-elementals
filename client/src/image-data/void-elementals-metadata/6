@@ -1,0 +1,23 @@
+{
+  "name": "Fuujin",
+  "description": "A legendary elemental known for its power to create powerful whirlwinds that lift enemies into the sky or slice through them with invisible blades.",
+  "image": "ipfs://QmYhvLHmdMHvYp57JqB18AHauYAANivqSEDgFAnscKZobz/6.jpg",
+  "attributes": [
+    {
+      "trait_type": "Elemental Power",
+      "value": "Wind"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Night"
+    },
+    {
+      "trait_type": "Void Technique",
+      "value": "Phantom Flight"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}
